@@ -25,12 +25,12 @@ Nog niet gemaakt.
 
 ### Userstories
 
-Project: Duurzaam Huis
+Project: Duurzaam Huis  
 [Trello Link](https://trello.com/b/jQ1zcgRd/f2m3-duurzaam-huis)
 
 ### Moodboard
 
-Nog niet gemaakt,
+Nog niet gemaakt.
 
 ### Styleboard
 
@@ -38,8 +38,8 @@ Nog niet gemaakt.
 
 ### Wireframes
 
-Project: Skateboard Website voor F3M8PROG
-(link)
+Project: Skateboard Website voor F3M8PROG  
+[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/wireframes)
 
 ### Visueel Ontwerp (XD)
 
@@ -52,5 +52,5 @@ Nog niet gemaakt.
 
 ### Prototype
 
-Project: Mijn Portfolio
-(link)
+Project: Mijn Portfolio  
+[GitHub Link](https://github.com/duck1s/portfolio-website)
