@@ -1,16 +1,16 @@
 # Keuzedeel Interaction Design
 
-Door: Joeri Breedveld
-Klas: SD2B
+Door: Joeri Breedveld  
+Klas: SD2B  
 Datum: 18 mei 2022
 
 ## Informatie
 
-Naam van het examen: Interaction Design voor de opleiding SD (Software Developer)
-Examencode: K0529
-Examenvorm: praktijkexamen
-Duur examen: 2 weken
-Versie: 1
+Naam van het examen: Interaction Design voor de opleiding SD (Software Developer)  
+Examencode: K0529  
+Examenvorm: praktijkexamen  
+Duur examen: 2 weken  
+Versie: 1  
 Advies vaststelling: 9 mei 2022 - Peter van der Blom
 
 ## Onderdelen
