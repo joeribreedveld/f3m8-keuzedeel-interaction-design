@@ -21,7 +21,7 @@ Nog niet gemaakt.
 
 ### Persona
 
-Nog niet gemaakt.
+Klaar
 
 ### Userstories
 
@@ -30,11 +30,11 @@ Project: Duurzaam Huis
 
 ### Moodboard
 
-Nog niet gemaakt.
+Klaar
 
 ### Styleboard
 
-Nog niet gemaakt.
+Klaar
 
 ### Wireframes
 
