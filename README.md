@@ -21,7 +21,7 @@ Klaar (nog niet gecheckt)
 
 ### Persona
 
-Klaar
+Klaar (nog niet gecheckt)
 
 ### Userstories
 
@@ -48,7 +48,7 @@ Project: Mijn Portfolio
 
 ### Onderzoek testen met doelgroep
 
-Nog niet gemaakt.
+Klaar (nog niet gecheckt)
 
 ### Prototype
 
