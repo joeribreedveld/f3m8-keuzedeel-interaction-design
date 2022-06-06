@@ -17,7 +17,7 @@ Advies vaststelling: 9 mei 2022 - Peter van der Blom
 
 ### Onderzoek klant en product
 
-Nog niet gemaakt.
+Klaar (nog niet gecheckt)
 
 ### Persona
 
