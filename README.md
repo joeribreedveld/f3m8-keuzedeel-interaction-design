@@ -18,12 +18,12 @@ Advies vaststelling: 9 mei 2022 - Peter van der Blom
 ### Onderzoek klant en product
 
 Project: F3M8BO - Aruna  
-[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/onderzoek-klant-product)
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/onderzoek-klant-product)
 
 ### Persona
 
 Project: Portfolio Website V2  
-[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/persona)
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/persona)
 
 ### Userstories
 
@@ -33,17 +33,17 @@ Project: F3M8BO - Duurzaam Huis
 ### Moodboard
 
 Project: Portfolio Website V2  
-[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/moodboard)
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/moodboard)
 
 ### Styleboard
 
 Project: Portfolio Website V2  
-[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/styleboard)
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/styleboard)
 
 ### Wireframes
 
 Project: F3M8BO - Aruna  
-[File Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/wireframes)
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/wireframes)
 
 ### Visueel Ontwerp (XD)
 
@@ -52,7 +52,7 @@ Project: Portfolio Website V2
 
 ### Onderzoek testen met doelgroep
 
-Project: Portfolio Website V1
+Project: Portfolio Website V1  
 [Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/onderzoek-test)
 
 ### Prototype
