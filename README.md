@@ -60,3 +60,7 @@ Project: Portfolio Website V1
 Project: Portfolio Website V1  
 [GitHub Link](https://github.com/duck1s/portfolio-website)
 [Website Link](https://joeribreedveld.com/)
+
+### Presentatie
+
+[Link](https://github.com/duck1s/f3m8-keuzedeel-interaction-design/tree/master/presentatie)
